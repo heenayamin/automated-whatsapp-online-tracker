@@ -30,7 +30,7 @@ INPUT_TXT_BOX = '/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/span[1]/div
 ONLINE_STATUS_LABEL = '/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/header[1]/div[2]/div[2]/span[1]'
 
 # Replace below with the list of targets to be tracked
-TARGETS = {'"rehman"': '9876047868', '"Aaaaaaaaa"': '9876883581'}
+TARGETS = {'"contact name"': 'phone number 1', '"contactname2"': 'phonenumber2'}
 
 # Replace below path with the absolute path
 browser = webdriver.Chrome(r"C:\Users\LENOVO\OneDrive\Desktop\chromedriver.exe")
